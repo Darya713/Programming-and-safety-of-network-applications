@@ -1,0 +1,4 @@
+﻿  ServerU.cpp
+g:\псп\laboratory work\lab_03\serveru\serveru\serveru.cpp(24): warning C4101: cS: неиспользованная локальная переменная
+  ServerU.vcxproj -> G:\ПСП\Laboratory work\Lab_03\ServerU\Debug\ServerU.exe
+  ServerU.vcxproj -> G:\ПСП\Laboratory work\Lab_03\ServerU\Debug\ServerU.pdb (Full PDB)

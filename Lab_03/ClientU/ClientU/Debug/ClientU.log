@@ -1,0 +1,5 @@
+﻿  ClientU.cpp
+g:\псп\laboratory work\lab_03\clientu\clientu\clientu.cpp(21): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note:  см. объявление "inet_addr"
+  ClientU.vcxproj -> G:\ПСП\Laboratory work\Lab_03\ClientU\Debug\ClientU.exe
+  ClientU.vcxproj -> G:\ПСП\Laboratory work\Lab_03\ClientU\Debug\ClientU.pdb (Full PDB)
